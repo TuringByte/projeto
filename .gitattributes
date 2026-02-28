@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+echo "# projeto-faculdade" >> README.md
+git init
+git add README.md
