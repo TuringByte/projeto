@@ -1,3 +1,40 @@
-echo "# projeto-faculdade" >> README.md
-git init
-git add README.md
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grupo Miguel</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>Projeto faculdade</h1>
+
+        <h2>Caua e Miguel</h2>
+
+           <div class="image-container">
+
+       <img src="faculdade/Video_ Saturday Night Live Tackles Artificial….jpg" alt="">
+        
+        <h2><u><strong>O Futuro da Tecnologia</strong></u></h2>
+
+        <p>
+            A tecnologia está evoluindo de forma extremamente rápida.
+            Áreas como inteligência artificial, programação e segurança digital
+            estão transformando o mundo. Aprender HTML e CSS é o primeiro passo
+            para entrar nesse universo e começar a criar seus próprios projetos.
+        </p>
+
+        <p>
+            O grupo tem como objetivo estudar desenvolvimento web,
+            melhorar habilidades em programação e compartilhar conhecimento.
+            Com dedicação e prática constante, é possível evoluir rapidamente
+            e construir projetos cada vez mais profissionais.
+        </p>
+
+    </div>
+
+</body>
+</html>
