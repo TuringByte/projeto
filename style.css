@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #eff1f1;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 50px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #1e3a8a;
+    font-size: 40px;
+}
+
+h2 {
+    margin-top: 25px;
+    color: #111827;
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+
+p {
+    line-height: 1.6;
+    color: #444;
+}
